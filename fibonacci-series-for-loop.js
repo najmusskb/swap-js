@@ -2,9 +2,7 @@
 // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 orthat jeita man seita ager duita man er jog foler soman ... 
 
 
-
-
-/*  3rd =2nd + 1st 
+/* 3rd =2nd + 1st 
 
  4th = 3rd + 2nd 
 
@@ -18,9 +16,7 @@
 
  */
 
-
 const fibo = [0, 1];
-
 
 for (let i = 2; i <= 10; i++) {
 
