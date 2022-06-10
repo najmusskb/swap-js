@@ -1,10 +1,6 @@
 // function
 
-
 function fibonacciseries(num) {
-
-
-
     const fibo = [0, 1];
 
     for (let i = 2; i <= num; i++) {
@@ -15,5 +11,5 @@ function fibonacciseries(num) {
 
 }
 
-const fiboccahiresult = fibonacciseries(10);
+const fiboccahiresult = fibonacciseries(220);
 console.log(fiboccahiresult);
